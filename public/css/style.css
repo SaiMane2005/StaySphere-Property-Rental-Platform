@@ -107,4 +107,9 @@ body{
 .listing-link:hover {
   color: black;
 }
+/* Mapbox */
 
+#map {
+   height:400px;
+   width: 80vh;
+ }
